@@ -146,8 +146,8 @@ reset.addEventListener('click', function () {
 
     message.textContent = 'Start Playing';
 
-    turn = 'X';      // reset turn
-    winner = false;  // reset game state (if you use it)
+    turn = 'X';      
+    winner = false;  
 });
 /*-------------------------------- Functions --------------------------------*/
 
@@ -155,3 +155,5 @@ reset.addEventListener('click', function () {
 
 
 // }
+
+//Long Code sorry but the only thing that can work for now 😅
